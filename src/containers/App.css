@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Jokerman Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Jokerman'), url('Jokerman.otf') format('otf');
+}
+
+h1 {
+    font-family: 'Jokerman Regular';
+    font-weight: 200;
+    color: #0ccac4;
+} 
